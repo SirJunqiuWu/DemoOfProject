@@ -10,6 +10,7 @@
 
 @interface DA01ViewController : UIViewController
 
+//test
 @property (nonatomic,strong)UIImageView *bgView;
 @property (nonatomic,strong)UIScrollView *baseSV;
 @property (nonatomic,strong)UITabBarController *mainVC;
